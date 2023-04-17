@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="934ef7e8-5f29-484e-b506-34201d19270f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yolov5" beforeDir="false" afterPath="$PROJECT_DIR$/yolov5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yolov5/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/yolov5/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yolov5/data/scripts/download_weights.sh" beforeDir="false" afterPath="$PROJECT_DIR$/yolov5/data/scripts/download_weights.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yolov5/data/scripts/get_coco.sh" beforeDir="false" afterPath="$PROJECT_DIR$/yolov5/data/scripts/get_coco.sh" afterDir="false" />
@@ -24,7 +27,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/yolov5" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
